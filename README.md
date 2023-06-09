@@ -1,11 +1,9 @@
-# lab-02
-
+# Report-02
 # Task 1
 
 ```
 https://github.com/Vlad1kavkaz/lab-02.git
 ```
-
 ```
 $ mkdir lb2
 $ echo "# lb2" >> README.md
@@ -14,7 +12,8 @@ $ git add README.md
 $ git commit -m "first commit"
 $ git remote add origin https://github.com/Vlad1kavkaz/lab-02.git
 $ git push -u origin master
-
+```
+## создаем файл с плохим стилем кода
 ```
 #include <iostream>
 
@@ -57,7 +56,7 @@ $ git push -u origin master
 ```
 
 ```
-История дотупна в репозитории
+история дотупна в репозитории
 ```
 
 #Task2
