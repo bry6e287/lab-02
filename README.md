@@ -13,8 +13,7 @@ $ git add README.md
 $ git commit -m "first commit"
 $ git remote add origin https://github.com/Vlad1kavkaz/lab-02.git
 $ git push -u origin master
-```
-## Создаем файл с плохим стилем кода
+
 ```
 #include <iostream>
 
