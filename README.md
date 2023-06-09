@@ -2,7 +2,7 @@
 # Task 1
 
 ```
-https://github.com/Vlad1kavkaz/lab-02.git
+https://github.com/bry6e287/lab-02.git
 ```
 ```
 $ mkdir lb2
@@ -10,7 +10,7 @@ $ echo "# lb2" >> README.md
 $ git init
 $ git add README.md
 $ git commit -m "first commit"
-$ git remote add origin https://github.com/Vlad1kavkaz/lab-02.git
+$ git remote add origin https://github.com/bry6e287/lab-02.git
 $ git push -u origin master
 ```
 ## создаем файл с плохим стилем кода
